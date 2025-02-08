@@ -1,6 +1,6 @@
 # Title: GaiaAI Chatbot
-# Created by: Moei
-# Twitter: https://x.com/0xMoei
+# Created by: DragonLordSMART
+# Twitter: https://x.com/Smart_404_
 
 # The script will print the credit part and ask for the API key
 
